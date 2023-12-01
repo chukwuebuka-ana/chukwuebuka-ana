@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chukwuebuka-ana
-- 👀 I’m interested in ...Data science
+- 👀 I’m interested in ...Data science and UI/UX design
 - 🌱 I’m currently learning data analysis; excel, powerBi, tableau, python and SQL.
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 contact me on twitter @sunshinejohn14, on IG @white_clef, email johnpaulebuka2001@gmail.com
